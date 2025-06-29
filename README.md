@@ -41,9 +41,6 @@ Each lesson includes an `.html` file to run in your browser and a linked `.js` f
 ---
 
 ## 📘 For Teachers
-
-This repo is part of an introductory JavaScript lesson series designed for **Code.org Unit 3 students** who want extra JavaScript practice outside of block coding.
-
 You can:
 - 🍴 Fork this repo for your class
 - 🏫 Use it with GitHub Classroom
